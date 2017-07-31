@@ -1,0 +1,49 @@
+D D_D D_D D_D D D_D D_D D_D D_D D D_D D_D D_D D
+
+A- C_D_D_D E_F_F
+F G__E_E_D C_C_D
+
+A- C_D_D_D E_F_F
+F G__E_E_D C_D
+
+A- C_D_D__D F_G_G
+G A__A# A# _A G_A_D
+
+D E_F_F_G__AD
+DF_E_E_F D_E
+
+A C+__D+_D+_D+ E+_F+_F+
+F+ G+_E+_E+_D+ C+_C+_D+
+
+A C+__D+_D+_D+ E+_F+_F+
+F+ G+_E+_E+_D+ C+_D+
+
+A C+__D+_D+__D+ F+_G+_G+
+G+ A+_A#+ A#+_A+ G+_A+ D+
+
+D+ E+_F+_F+_G+_A+ D+
+D+ F+_E+_E+_D+ C+_D+_D+_E+
+F+_F+ F+_G+ 
+
+A+ F++_F++ D++ A+
+
+B++_G++ D++_B+
+
+A- A-_G-_F-
+
+F- G-_A-_A-_A-_B- A-
+     G-_G-_G-_G- A-
+     A-_A-_A-_B- A-
+     A-_G-_F-_D- 
+
+D E F_G A_G_F_E___F_G_A#_A
+F G A_G F_F_G_F___E___D C_D 
+
+D E F_E F_G_F_G___A_G_F_D
+D E__F_G_A___A#_G_A___G_F_E_D
+
+A_A#__A_A_A_A G
+G_E___E_F_E_E D
+
+A_A#__A_A_D+_A G
+G_E___E_F_E__D

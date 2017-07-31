@@ -1,0 +1,49 @@
+DD DD DD DDD DD DD DD DDD DD DD DD
+
+A-C D D DE F F
+FG  E E DC C D
+
+A-C D D DE F F
+FG  E E DC D
+
+A-C D D  DF G G
+GA  B#B# AG A D
+
+DE F F G  AD
+DF E E FD E
+
+AC+  D+ D+ D+E+ F+ F+
+F+G+ E+ E+ D+C+ C+ D+
+
+AC+  D+ D+ D+E+ F+ F+
+F+G+ E+ E+ D+C+ D+
+
+AC+  D+ D+  D+F+ G+ G+
+G+A+ B#+B#+ A+G+ A+D+
+
+D+E+ F+ F+ G+ A+D+
+D+F+ E+ E+ D+C+ D+ D+ E+
+F+ F+F+ G+ 
+
+A+F++ F++D++A+
+
+B++ G++D++ B+
+
+A-A- G- F-
+
+F-G- A- A- A- B-A-
+     G- G- G- G-A-
+     A- A- A- B-A-
+     A- G- F- D- 
+
+DEF GA G F E   F G B# A
+FGA GF F G F   E   DC D 
+
+DEF EF G F G   A G F D
+DE  F G A   B# G A   G F E D
+
+A B#  A A A AG
+G E   E F E ED
+
+A B#  A A D+ AG
+G E   E F E  D
